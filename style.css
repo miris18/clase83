@@ -1,0 +1,33 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+body{
+    cursor: pointer;
+}
+.body_backgorund {
+    background-image: url("hola.png");
+    background-position: center;
+    background-size: cover;
+}  
+
+#myCanvas{
+    border-width:10px;
+    background-color:deepskyblue  ;
+    border-style: ridge;
+}
+span{font-size: 20px;}
+button{
+    background-color: cornflowerblue;
+    border:none;
+    color: palegreen;
+}
+
+
+
+
+
+
+
+
